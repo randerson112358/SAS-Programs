@@ -8,5 +8,5 @@ run;
 
 /*Print the data from AsianCars*/
 proc print data = AsianCars;
-var make model MPG_City;
+  var make model MPG_City;
 run;
