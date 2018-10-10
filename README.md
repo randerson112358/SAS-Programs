@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/SAS_logo_horiz.svg/1200px-SAS_logo_horiz.svg.png" width="350"/>
 </p>
-Fun C Programs <br>
+
 To see me programming in SAS checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uLJ60Uz1GqppARRJyV4-zk0">Click Here</a>
 
 ##SAS Programs
