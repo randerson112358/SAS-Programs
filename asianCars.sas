@@ -1,3 +1,5 @@
+/* This program creates a subset of data from the sashelp.cars table of cars that have origin of Asia*/
+
 /*Create Asian Cars Data Set*/
 data AsianCars;
   set sashelp.cars (keep = make model origin MPG_City);
