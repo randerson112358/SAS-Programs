@@ -1,3 +1,9 @@
+
+*This programs shows two ways to create comments in SAS ;
+*1. Block Comments: /* comment */;
+*2. Comment Statements : * comment ;
+
+
 /*Create a temporary data set 
 called MicrosoftStock*/
 
