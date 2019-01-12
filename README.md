@@ -6,7 +6,7 @@
 
 To see me programming in SAS checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/playlist?list=PLBhJnyA0V0uLJ60Uz1GqppARRJyV4-zk0">Click Here</a>
 
-##SAS Programs
+## SAS Programs
 
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
